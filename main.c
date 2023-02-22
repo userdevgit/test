@@ -3,5 +3,4 @@ main() {
 
          biggest();
          factorial();
-        reverse();
 }
